@@ -19,7 +19,7 @@ const Button = styled.button`
   font-weight: 500;
   border: none;
   border-radius: 7px;
-  background-color: purple;
+  background-color: var(--color-brand-500);
   color: white;
 `;
 
