@@ -8,6 +8,8 @@ export default defineConfig({
     alias: {
       services: path.resolve(__dirname, "./src/services"),
       ui: path.resolve(__dirname, "./src/ui"),
+      features: path.resolve(__dirname, "./src/features"),
+      utils: path.resolve(__dirname, "./src/utils"),
     },
   },
 });
